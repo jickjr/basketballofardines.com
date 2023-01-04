@@ -1,0 +1,94 @@
+h2{
+	text-align : center;
+	font-size: 32px;
+}
+.topnav {
+	overflow:hidden;
+	background-color: skyblue;
+	font-size : 26px;
+}
+
+.topnav a {
+	float : left
+	color:pink;
+	text-align: center;
+	padding : 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	font-size : 26px;
+}
+
+.topnav a:hover {
+	background-color : #ddd;
+	color : black
+	font-size : 26px;
+}
+
+.bg-img {
+	background-image: url("homepic.jpg");
+	min-height : 780px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position : relative;
+	
+}
+.img {
+	background-image: url("ardines sports.jpg");
+	min-height : 480px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position : relative;
+	width : 850px;
+}
+.t {
+	font-size : 24px;
+}
+.g {
+	background-color : pink;
+}
+p {
+	font-size : 32px;
+	color : black;
+	
+}
+h1 {
+	text-align : center;
+	background-color :blue;
+	
+	
+}
+.b {
+	background-image: url("ardines sports7.jpg");
+	min-height : 580px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position : relative;
+	width : 850px;
+	background-position : center ;
+}
+.q {
+	background-image: url("wt.jpg");
+	min-height : 580px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position : relative;
+	width : 850px;
+
+}
+.home {
+	background-image: url("n.jpg");
+	min-height : 1080px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position : relative;
+	width : 1250px;
+}
+
+.ig {
+	background-image: url("ardines sports.jpg");
+	min-height : 1080px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position : relative;
+	width : 1250px;
+}
